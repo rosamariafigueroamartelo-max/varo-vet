@@ -1,0 +1,68 @@
+[
+  {
+    "id": "consulta",
+    "nombre": "Consulta veterinaria",
+    "icono": "fa-stethoscope",
+    "descripcion": "Revisión general, diagnóstico y recomendaciones para el cuidado diario.",
+    "incluye": [
+      "Revisión general de la mascota",
+      "Diagnóstico y orientación al responsable",
+      "Recomendaciones de cuidado diario"
+    ]
+  },
+  {
+    "id": "vacunacion",
+    "nombre": "Vacunación",
+    "icono": "fa-syringe",
+    "descripcion": "Esquemas de vacunas según la edad y la especie de tu mascota.",
+    "incluye": [
+      "Esquema según la edad y la especie",
+      "Registro de las vacunas aplicadas",
+      "Fecha sugerida para el próximo refuerzo"
+    ]
+  },
+  {
+    "id": "cirugia",
+    "nombre": "Cirugía",
+    "icono": "fa-heart-pulse",
+    "descripcion": "Procedimientos programados con seguimiento después de la operación.",
+    "incluye": [
+      "Valoración antes de la operación",
+      "Procedimiento programado",
+      "Seguimiento durante la recuperación"
+    ]
+  },
+  {
+    "id": "laboratorio",
+    "nombre": "Exámenes de laboratorio",
+    "icono": "fa-flask",
+    "descripcion": "Análisis de sangre, orina y otros exámenes para un diagnóstico más preciso.",
+    "incluye": [
+      "Toma de muestras",
+      "Análisis de sangre, orina y otros",
+      "Entrega de resultados al responsable"
+    ]
+  },
+  {
+    "id": "odontologia",
+    "nombre": "Odontología",
+    "icono": "fa-tooth",
+    "descripcion": "Limpieza dental y revisión de encías y dientes.",
+    "incluye": [
+      "Revisión de dientes y encías",
+      "Limpieza dental",
+      "Recomendaciones de higiene oral"
+    ]
+  },
+  {
+    "id": "peluqueria",
+    "nombre": "Peluquería",
+    "icono": "fa-scissors",
+    "descripcion": "Baño, corte de pelo y de uñas para que tu mascota esté cómoda.",
+    "incluye": [
+      "Baño",
+      "Corte de pelo",
+      "Corte de uñas"
+    ]
+  }
+]
